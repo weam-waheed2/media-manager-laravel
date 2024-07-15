@@ -9,4 +9,4 @@
 
 ## About App
 
-<img src="https://github.com/media-manager-laravel/imgs/Laravel.png">
+<img src="https://github.com/weam-waheed2/media-manager-laravel/blob/main/imgs/Laravel.png">
