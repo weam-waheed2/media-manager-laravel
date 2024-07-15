@@ -7,6 +7,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## About App
 
-<img src="https://github.com/media-manager-laravel/imgs/laravel.png">
+<img src="https://github.com/media-manager-laravel/imgs/Laravel.png">
