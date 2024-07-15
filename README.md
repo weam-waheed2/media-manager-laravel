@@ -9,4 +9,17 @@
 
 ## About App
 
+(1)
 <img src="https://github.com/weam-waheed2/media-manager-laravel/blob/main/imgs/Laravel.png">
+
+(2)
+<img src="https://github.com/weam-waheed2/media-manager-laravel/blob/main/imgs/Laravel (1).png">
+
+(3)
+<img src="https://github.com/weam-waheed2/media-manager-laravel/blob/main/imgs/Laravel (2).png">
+
+(4)
+<img src="https://github.com/weam-waheed2/media-manager-laravel/blob/main/imgs/Laravel (3).png">
+
+(5) Upload image
+<img src="https://github.com/weam-waheed2/media-manager-laravel/blob/main/imgs/Laravel (4).png">
